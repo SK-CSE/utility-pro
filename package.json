@@ -1,0 +1,25 @@
+{
+  "name": "utility-pro",
+  "version": "1.0.0",
+  "description": "NPM package for some utility functions to make your coding easy :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SK-CSE/utility-pro.git"
+  },
+  "keywords": [
+    "utility",
+    "helper",
+    "general",
+    "functions"
+  ],
+  "author": "Saurabh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SK-CSE/utility-pro/issues"
+  },
+  "homepage": "https://github.com/SK-CSE/utility-pro#readme"
+}
