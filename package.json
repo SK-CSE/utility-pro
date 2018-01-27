@@ -1,6 +1,6 @@
 {
   "name": "utility-pro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NPM package for some utility functions to make your coding easy :)",
   "main": "index.js",
   "scripts": {
