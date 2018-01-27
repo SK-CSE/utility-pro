@@ -35,7 +35,7 @@ const isPrime = num => {
     return true;
 };
 
-module.export = {
+module.exports = {
     isUndefined: isUndefined,
     isNull: isNull,
     sortNumber: sortNumber,
