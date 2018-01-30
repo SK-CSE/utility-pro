@@ -35,6 +35,9 @@ const isPrime = num => {
     return true;
 };
 
+//create random email
+const createRandomEmail = () => 'utilitypro' + Date.now() + "@npm.com";
+
 module.exports = {
     isUndefined: isUndefined,
     isNull: isNull,
@@ -43,5 +46,6 @@ module.exports = {
     removeDup: removeDup,
     removeDupAndSort: removeDupAndSort,
     sum: sum,
-    isPrime: isPrime
+    isPrime: isPrime,
+    createRandomEmail: createRandomEmail
 };
