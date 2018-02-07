@@ -15,7 +15,11 @@ list of functions contain in this package :
 * __`isPrime()`__ :  To check if given number is prime or not
 * __`isNull()`__ :  To check if given variable is null or not
 * __`isUndefined()`__ :  To check if given variable is undefined or not
-
+* __`createRandomEmail()`__ It will create a random email for you
+* __`createRandomWord()`__ It will create a random word of desire number of alphabet for you
+* __`createRandomPhoneNumber()`__ It will create a random phone number for you
+* __`createRandomURL()`__ It will create a random url of desire length for you
+* __`createRandomIP()`__ It will create a random IPv4 for you
 
 Example:
 ```js
@@ -32,6 +36,11 @@ console.log(utilPro.isPrime(5)); // true
 console.log(utilPro.isPrime(4)); // false
 console.log(utilPro.isNull(a)); // false
 console.log(utilPro.isUndefined(a));// true
+console.log(utilPro.createRandomEmail());// utilitypro1518028437757@npm.com
+console.log(utilPro.createRandomWord(5));// efedb
+console.log(utilPro.createRandomPhoneNumber());// 8995359431
+console.log(utilPro.createRandomURL(5));// www.sdasd.com
+console.log(utilPro.createRandomIP());// 192.168.1.50
 
 ```
 more functions will be added in future.. stay tuned.. :)
